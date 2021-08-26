@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/kaizhe/Desktop/Modules/CS3244/CS3244-Team-Project/convolutional_neural_network/runs/1588315844/checkpoints/model-300"
+all_model_checkpoint_paths: "/Users/kaizhe/Desktop/Modules/CS3244/CS3244-Team-Project/convolutional_neural_network/runs/1588315844/checkpoints/model-260"
+all_model_checkpoint_paths: "/Users/kaizhe/Desktop/Modules/CS3244/CS3244-Team-Project/convolutional_neural_network/runs/1588315844/checkpoints/model-270"
+all_model_checkpoint_paths: "/Users/kaizhe/Desktop/Modules/CS3244/CS3244-Team-Project/convolutional_neural_network/runs/1588315844/checkpoints/model-280"
+all_model_checkpoint_paths: "/Users/kaizhe/Desktop/Modules/CS3244/CS3244-Team-Project/convolutional_neural_network/runs/1588315844/checkpoints/model-290"
+all_model_checkpoint_paths: "/Users/kaizhe/Desktop/Modules/CS3244/CS3244-Team-Project/convolutional_neural_network/runs/1588315844/checkpoints/model-300"
